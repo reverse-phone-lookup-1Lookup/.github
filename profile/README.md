@@ -54,7 +54,8 @@ If you are not seeing your free credits or bulk discount, follow these steps to 
 
 Unlike consumer-grade apps that lock you into confusing monthly subscriptions, 1Lookup uses a straightforward **Pay-As-You-Go Universal Credit** system for all B2B API requests.
 
-![1Lookup pricing](image2.png)
+
+[![1Lookup pricing](https://raw.githubusercontent.com/reverse-phone-lookup-1Lookup/.github/refs/heads/main/1lookup4.png)](https://www.1lookup.io/pricing)
 
 | Plan Type | Pricing Details | Best For |
 | --- | --- | --- |
