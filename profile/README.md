@@ -28,11 +28,12 @@ Follow these 4 simple steps to claim your free reverse phone lookups and volume 
 
 **Step 2:** Click on the **Pricing** or **Sign Up** tab from the top bar to view their Universal Credit system.
 
-[![Select a plan](https://raw.githubusercontent.com/reverse-phone-lookup-1Lookup/.github/refs/heads/main/1lookup3.png)](https://www.1lookup.io/)
+[![Select a plan](https://raw.githubusercontent.com/reverse-phone-lookup-1Lookup/.github/refs/heads/main/1lookup3.png)](https://www.1lookup.io/pricing)
 
 **Step 3:** Now, **create your 1Lookup account** by entering your email ID.
 
-![Sign up](image8.png)
+
+[![Sign up](https://raw.githubusercontent.com/reverse-phone-lookup-1Lookup/.github/refs/heads/main/1lookupsignup.png)](https://app.1lookup.io/signup)
 
 **Tip:** As soon as you sign up, your 1,000 free lookups are automatically credited to your dashboard to test the API.
 
