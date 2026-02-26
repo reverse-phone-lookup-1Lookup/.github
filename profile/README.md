@@ -10,7 +10,7 @@ We brought you verified [1Lookup coupons](https://www.1lookup.io/) for developer
 
 [**Get volume discounts on universal credits**](https://www.1lookup.io/) with this 1Lookup promo. Because 1Lookup uses a pay-as-you-go model with no complex pricing tiers, buying credits in bulk drastically reduces your cost per reverse phone lookup, helping you scale your CRM and calling campaigns efficiently.
 
-[![Claim This Discount](image5.png)](https://www.1lookup.io/)
+[![Claim This Discount](https://raw.githubusercontent.com/reverse-phone-lookup-1Lookup/.github/refs/heads/main/1lookup.png)](https://www.1lookup.io/)
 
 ## 1Lookup Promo Code: Get Started in 5 Minutes
 
