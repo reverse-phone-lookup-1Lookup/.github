@@ -4,7 +4,7 @@ We brought you verified [1Lookup coupons](https://www.1lookup.io/) for developer
 
 [**Get 1,000 free lookups instantly**](https://www.1lookup.io/) when you create a new account to test 1Lookup's reverse phone lookup accuracy. Identify line types (VOIP vs. mobile), verify active carriers, and detect spam risk with real-time phone validation powered by daily FCC data updates.
 
-[![Claim This Discount](image5.png)](https://www.1lookup.io/)
+[![Claim This Discount]([image5.png](https://raw.githubusercontent.com/reverse-phone-lookup-1Lookup/.github/refs/heads/main/1lookup.png))](https://www.1lookup.io/)
 
 ## Save Big on Bulk Reverse Phone Lookup Credits
 
