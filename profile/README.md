@@ -118,7 +118,7 @@ If your business relies heavily on accurate data and fraud prevention, **1Lookup
 
 If you want an accurate, developer-friendly platform that actually stops fraud and cleans your lists, 1Lookup is a top-tier choice. With their flexible Universal Credit system, you never overpay for what you don't use. Grab your **1,000 free lookups** to start testing, and take advantage of their bulk pricing to scale your reverse phone lookup needs securely.
 
-[![Claim This Discount](image5.png)](https://www.1lookup.io/)
+[![Claim This Discount](https://raw.githubusercontent.com/reverse-phone-lookup-1Lookup/.github/refs/heads/main/1lookup.png)](https://www.1lookup.io/)
 
 Create your free account, integrate the API, and start verifying your data faster and smarter.
 
