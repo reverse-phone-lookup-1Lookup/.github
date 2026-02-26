@@ -4,7 +4,7 @@ We brought you verified [1Lookup coupons](https://www.1lookup.io/) for developer
 
 [**Get 1,000 free lookups instantly**](https://www.1lookup.io/) when you create a new account to test 1Lookup's reverse phone lookup accuracy. Identify line types (VOIP vs. mobile), verify active carriers, and detect spam risk with real-time phone validation powered by daily FCC data updates.
 
-[![Claim This Discount]([image5.png](https://raw.githubusercontent.com/reverse-phone-lookup-1Lookup/.github/refs/heads/main/1lookup.png))](https://www.1lookup.io/)
+[![Claim This Discount](https://raw.githubusercontent.com/reverse-phone-lookup-1Lookup/.github/refs/heads/main/1lookup.png)](https://www.1lookup.io/)
 
 ## Save Big on Bulk Reverse Phone Lookup Credits
 
@@ -16,7 +16,7 @@ We brought you verified [1Lookup coupons](https://www.1lookup.io/) for developer
 
 [**Activate your 1Lookup account**](https://www.1lookup.io/) and integrate their sub-300ms REST API into your workflow. Whether you are validating web forms or auditing CRM records, this reverse phone lookup tool blocks up to 87% more fraudulent numbers than legacy providers.
 
-[![Claim This Discount](image5.png)](https://www.1lookup.io/)
+[![Claim This Discount](https://raw.githubusercontent.com/reverse-phone-lookup-1Lookup/.github/refs/heads/main/1lookup.png)](https://www.1lookup.io/)
 
 ## How to Apply the 1Lookup Coupon Code?
 
@@ -24,11 +24,11 @@ Follow these 4 simple steps to claim your free reverse phone lookups and volume 
 
 **Step 1:** Visit the **1Lookup official website** with this [**discount link**](https://www.1lookup.io/).
 
-![1Lookup official website](image7.png)
+[![1Lookup official website](https://raw.githubusercontent.com/reverse-phone-lookup-1Lookup/.github/refs/heads/main/1lookup2.png)](https://www.1lookup.io/)
 
 **Step 2:** Click on the **Pricing** or **Sign Up** tab from the top bar to view their Universal Credit system.
 
-![Select a plan](image1.png)
+[![Select a plan](https://raw.githubusercontent.com/reverse-phone-lookup-1Lookup/.github/refs/heads/main/1lookup3.png)](https://www.1lookup.io/)
 
 **Step 3:** Now, **create your 1Lookup account** by entering your email ID.
 
